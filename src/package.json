@@ -1,0 +1,19 @@
+{
+  "name": "vanillafilters",
+  "version": "0.0.1",
+  "description": "A vanilla js plugin that creates a faceted search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungomedia/vanillaFilters.git"
+  },
+  "author": "Martijn Cuijten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungomedia/vanillaFilters/issues"
+  },
+  "homepage": "https://github.com/tungomedia/vanillaFilters#readme"
+}
